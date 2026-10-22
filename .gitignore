@@ -8,7 +8,6 @@ __pycache__/
 *.log
 tags
 node_modules
-.vscode
 
 # Distribution / packaging
 .Python
@@ -47,3 +46,4 @@ desk/stats.html
 e2e/.auth
 playwright-report
 test-results
+config.bat
